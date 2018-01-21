@@ -1,6 +1,6 @@
 ## Noel Vock
 
-I'm passionate about solving problems with code and for the past few years I've been running a small honey retail business in part to have a live environment in which learn to code. I'm looking for a role where I can get to grips with a wide array of challenges and solve problems  in an ambitious company, working with people who love to create things and solve problems with code.
+I'm passionate about solving problems with code and for the past few years I have created and been running a small honey retail business in part to have a live environment in which learn to code. I'm an aspiring full stack developer and have worked steadfastly the past few years to gain skills in html, css, PHP and MySQL. I can edit, create and expand these with precision, creatively solve problems and speed up business procedures by, for instance, linking PayPal sales to an automated response system to display on screen or in the admin section of a website. I can work with databases, construct user login systems etc. I'm looking for a role where I can get to grips with a wide array of challenges and where I get to solve problems in an ambitious company, working with people who love to create things and solve problems with code.
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -8,52 +8,36 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 #### Resourcefulness
 
-What I know about programming so far has been mainly self taught and that shows I have great capacity for learning fast and doing my research and solving problems effectively on my own. I've started a company alone with next to no resources.
+What I know about programming so far has been mainly self taught, I enjoy learning things quickly from on and offline sources and have numerous books on Ruby, PHP, javascript etc. I'm thrilled, to be living and working in the times where technology expands our worlds so much and makes all information and learning easily available. I've started a company alone with next to no resources.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Analyitical
 
-- Experience
-- Achievements
-- Evidence
+I enjoy taking large problems and then breaking them down into smaller ones and being able to implement them.
 
-#### Perseverance
+#### Passionate
 
-
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Teaching myself how to program for the past few years and love to attend tech related
+workshops such as Alexa 101 where they guided us through how to make an Alexa Skill.
 
 ## Education
 
 #### Makers Academy (18th December to present)
 
-- Curious and passionate about code. [I've studied code
  for the past few years and love to attend coding
  workshops such as Alexa 101 where they guided us through how to make an Alexa Skill.
-]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Birckbeck University (2014 to 2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+Certificate in Web Technologies
 
-#### Any other qualifications
+#### City of Westminster College
+**A-levels**
+History: B
+Government and Politics: B
+Economics: C
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Wild Hives** (2013 to present)    
+*Founder, Managing Director*  
