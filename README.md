@@ -1,9 +1,8 @@
 ## Noel Vock
 
-I am a full stack developer, driven by learning new languages and constantly striving to improve my process of learning. 
-
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
 
+I am a full stack developer, driven by learning new languages and constantly striving to improve my process of learning. 
 
 For the last 5 years I’ve been running a small gourmet honey company, which I’ve set up with mainly one intention in mind - to create an Ecommerce site from scratch and to have it as a stepping stone towards becoming a web developer. Self-teaching myself while on the job, as well as running my own business has been a great all round experience, but one of the main things it has given me was a realisation that my true passion lies in learning to code, and learning new languages to solve a variety of problems. 
 A fellowship position at Makers Academy has provided an incredible opportunity for this passion to bud and flourish; over the last three months I have learned an incredible amount and I can say now I find myself comfortable in any position of a full stack development. 
