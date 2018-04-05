@@ -1,10 +1,11 @@
 ## Noel Vock
 
-My favourite thing is learning to code, and taking practical steps towards improving my learning process is my main aim.
+I am a full stack developer, driven by learning new languages and constantly striving to improve my process of learning. 
 
-Having spent the past 5 years first setting up then running an online and offline mono floral honey business which was initially meant to be something to put in my web development portfolio as an example of an ecommerce site I've now finally managed to make it into a position where I can say I'm comfortable as a full stack developer. I'm comfortable working with Ruby and Javascript while my main interest has become how to increase the speed at which I'm able to start making things in new languages.
+For the last 5 years I’ve been running a small gourmet honey company, which I’ve set up with mainly one intention in mind - to create an Ecommerce site from scratch and to have it as a stepping stone towards becoming a web developer. Self-teaching myself while on the job, as well as running my own business has been a great all round experience, but one of the main things it has given me was a realisation that my true passion lies in learning to code, and learning new languages to solve a variety of problems. 
+A fellowship position at Makers Academy has provided an incredible opportunity for this passion to bud and flourish; over the last three months I have learned an incredible amount and I can say now I find myself comfortable in any position of a full stack development. 
 
-I love working on projects where I start with little knowledge of the technology used and then get to watch myself improve as a developer and create value in the projects duration.
+I work easily with Ruby and Javascript, nonetheless my main focus has become how to adapt to each project, increase the speed of learning new languages needed and of putting them to use. I love working on projects where I start with little knowledge of the technology used and then get to witness my own growth as a developer that creates value throughout the project. 
 
 Here's some of the things I'm working on.
 
