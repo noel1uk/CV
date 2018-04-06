@@ -13,7 +13,7 @@ Here's some of the things I'm working on.
 
 | Project       | Summary       | Technologies  | Testing |
 | ------------- |---------------| --------------|---------|
-
+| EMU new programming language ([Github](https://github.com/MatthewBurstein/emu))| An eductional programming language. [2 week solo project] | Javascript, HTML, CSS | Jasmine
 <!-- **EMU new programming language** | <a href="https://github.com/MatthewBurstein/emu"><img src="logos/github.png" width="40"></a> | An eductional programming language. [2 week solo project] | Javascript, Jasmine, HTML, CSS | RSpec | 
 **Bank tech test** |  <a href="https://github.com/noel1uk/bank-tech-test"><img src="logos/github.png" width="40"></a> | A front-end JS App - get headlines from Guardian's API and summaries from Aylien. [Weekend solo project] | Python | Pytest | 
 **BomberCat** |  <a href="https://github.com/lwkchan/bombercat/"><img src="logos/github.png" width="40"></a> |  A Front-end JS BomberCat game. [Week group project] | JavaScript, CreateJS library, jQuery, HTML, CSS | Jasmine | <a href="http://bombercat.surge.sh"><img src="logos/surge.png" width="60"></a>
