@@ -11,6 +11,9 @@ I work easily with Ruby and Javascript, nonetheless my main focus has become how
 
 Here's some of the things I'm working on.
 
+### <a name="projects">Projects</a>
+
+
 | Project       | Summary       | Technologies  | Testing |
 | ------------- |---------------| --------------|---------|
 | EMU new programming language ([Github](https://github.com/MatthewBurstein/emu)) | An eductional programming language. [2 week solo project] | Javascript, HTML, CSS | Jasmine
