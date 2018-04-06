@@ -1,6 +1,6 @@
 ## Noel Vock
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [What's next?](#interests) | [Contact](#contact)
 
 I am a full stack developer, driven by learning new languages and constantly striving to improve my process of learning. 
 
@@ -46,10 +46,13 @@ workshops such as Alexa 101 where they guided us through how to make an Alexa Sk
 ### <a name="education">Education</a>
 
 #### Makers Academy (18th December to present)
-
- for the past few years and love to attend coding
- workshops such as Alexa 101 where they guided us through how to make an Alexa Skill.
-
+A 16-week coding bootcamp, focusing on :
+* Ruby, Rails, Sinatra, JavaScript, Express, jQuery, Git, HTML, CSS
+* Agile methodologies
+* Object-oriented design
+* Test driven development and behaviour driven development
+* Pair programming and group projects
+* XP values
 
 #### Birckbeck University (2014 to 2015)
 
@@ -66,3 +69,12 @@ History, Government and Politics, Economics
 
 **McDonalds** (2011 to 2013)
 *Shift manager in a busy environment where effective team work was essential*
+
+### <a name="next">What's next?</a>
+
+* Continue my blog charting my process of learning new languages, continuing first with my learn Python process
+* Sharpen the projects in my pinned repositories
+* Complete some tech tests using C++ and Scala
+
+### <a name="contact">Contact</a>
+*noel1uk@gmail.com*
