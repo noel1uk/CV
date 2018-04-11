@@ -79,6 +79,7 @@ History, Government and Politics, Economics
 ### <a name="next">What's next?</a>
 
 * Continue my blog charting my process of learning new languages, continuing first with my learn Python process
+* Improve my understanding of testing in particular RSPEC by working through https://www.railstutorial.org/book
 * Sharpen the projects in my pinned repositories
 * Make a timed daily routine checker in Ruby on Rails for my own use
 * Do some tutorials in REACT and familiarise myself with its docs
