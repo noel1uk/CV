@@ -4,7 +4,7 @@
 
 A fellowship position at Makers Academy has provided an incredible opportunity for my coding passion to bud and flourish; over the last three months I have learned an incredible amount and I can say now I find myself comfortable in any position of a full stack development.
 
-I'm a full stack developer, driven by learning new languages and constantly striving to improve my process of learning. 
+I'm driven by learning new languages and constantly striving to improve my process of learning. 
 
 Here's some of the things I'm working on.
 
