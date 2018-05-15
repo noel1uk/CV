@@ -2,20 +2,22 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [What's next?](#interests) | [Contact](#contact)
 
-A fellowship position at Makers Academy has provided an incredible opportunity for my coding passion to bud and flourish; over the last three months I have learned an incredible amount and I can say now I find myself comfortable in any position of a full stack development.
+A [fellowship](https://blog.makersacademy.com/were-launching-a-fellowship-772460cc4fae) position at Makers Academy has provided me with an incredible opportunity to grow my passion for coding, a journey I started on over 5 years ago when building a website for my business.
 
-I'm driven by learning new languages and constantly striving to improve my process of learning. 
+Over the past three months I've learned a huge amount about how to write clean, maintainable, well-tested code, TDD, software craftsmanship, and Extreme Programming principles and am now looking forward to a role on any part of the stack where I can continue to learn and grow.
 
-Here's some of the things I'm working on.
+I'm driven by learning new technologies and constantly striving to improve my process of learning.
+
+Here are some of the things I've worked on.
 
 ### <a name="projects">Projects</a>
 
 
 | Project       | Summary       | Technologies  | Testing |
 | ------------- |---------------| --------------|---------|
-| A transpiler for a new programming language called EMU ([Github](https://github.com/MatthewBurstein/emu)) | An eductional programming language. [2 week group project] | Javascript, HTML, CSS | Jasmine
-| Bank tech test ([Github](https://github.com/noel1uk/bank-tech-test)) | My first attempt at working with Python. [4 day tech test] | Python | Pytest |
-| BomberCat ([Github](https://github.com/lwkchan/bombercat/)) | A Front-end JS BomberCat game. [Week group project] | JavaScript, CreateJS library, jQuery, HTML, CSS | Jasmine |
+| A transpiler for a new programming language called EMU ([Github](https://github.com/MatthewBurstein/emu)) | An eductional programming language. [9 days group project] | Javascript, HTML, CSS, jQuery | Jasmine
+| Bank tech test ([Github](https://github.com/noel1uk/bank-tech-test)) | My first attempt at working with Python. [tech test] | Python | Pytest |
+| BomberCat ([Github](https://github.com/lwkchan/bombercat/)) | A Front-end JS BomberCat game. [5 day group project] | JavaScript, CreateJS library, jQuery, HTML, CSS | Jasmine |
 | News summary ([Github](https://github.com/noel1uk/news-summary-challenge)) | Front-end JavaScript App - get headlines and images from Guardian's API [Weekend solo project] | JavaScript, HTML, CSS | Jasmine |
 
 ### <a name="background">Background</a>
@@ -31,7 +33,6 @@ My main focus has become how to adapt to each project, increase the speed of lea
 
 * My main passion is learning to craft elegant code, I thoroughly enjoyed extracting the legacy code into seperate classes in the Gilded Rose kata
 * I've got a real world understanding of the importance of well written code. When I was self employed my website was full of worst practices, for example, to change the price of a product it had to be altered in the database, on the product page
-* I enjoy solving problems with code
 
 #### Resourceful
 
